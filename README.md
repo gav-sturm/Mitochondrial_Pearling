@@ -1,5 +1,5 @@
 # The Biophysical Mechanism of Mitochondrial Pearling
-A repository of videos, images, and code related to manuscript, “The Biophysical Mechanism of Mitochondrial Pearling” 
+A repository of videos, images, and code related to the manuscript, “The Biophysical Mechanism of Mitochondrial Pearling” 
 
 ![Blender preview of organelle simulation](Supplementary_Movies/Movie1_spontaneous_U2OS_pearling.gif)
 
