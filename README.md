@@ -12,8 +12,9 @@ Sturm G, Hake K, Lefebvre AEYT, Rux CJ, Ivanova D, Millett-Sikking A, Tharp KM, 
 
 Our mechanism captures how pearling is regulating by the three physical forces
 1. Pressure,
-2. Elasticity, and 
+2. Elasticity 
 3. Tension:
+
 ![Fig8_low_res](https://github.com/user-attachments/assets/11c5cf4e-bee1-4eb2-ae8b-0332d3f158b4)
 
 Preprint available as a preprint @[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.21.629509v2)
