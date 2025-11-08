@@ -10,7 +10,7 @@ Sturm G, Hake K, Lefebvre AEYT, Rux CJ, Ivanova D, Millett-Sikking A, Tharp KM, 
 
 ![Blender preview of organelle simulation](Supplementary_Movies/Movie01_spontaneous_U2OS_pearling.gif)
 
-Our mechanism captures how pearling is regulating by the three physical forces
+Our mechanism captures how pearling is regulating by the three physical forces:
 1. Pressure
 2. Elasticity 
 3. Tension
