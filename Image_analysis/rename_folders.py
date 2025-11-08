@@ -23,5 +23,5 @@ def rename_event_folders(base_path):
 
 
 # Example usage
-base_path = r"C:\Users\gavst\Box\Box-Gdrive\Calico\scripts\2024-10-09_ctrls"
+base_path = r""
 rename_event_folders(base_path)

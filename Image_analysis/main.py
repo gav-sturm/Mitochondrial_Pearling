@@ -124,9 +124,9 @@ if __name__ == "__main__":
     results_list = []
     all_single_volume_data = pd.DataFrame()
     # import csv with all metadata and filepaths
-    final_save_folder = r"C:\Users\gavst\Box\Box-Gdrive\Calico\scripts\2024-11-04_osmotic_shock_calciumnapa"
+    final_save_folder = r"scripts\2024-11-04_osmotic_shock_calciumnapa"
     csv_path = os.path.join(final_save_folder, "Pearling_metadata_for_quantification.csv")
-    # csv_path = r"C:\Users\gavst\Box\Box-Gdrive\Calico\scripts\2024-09-29_microneedle\Pearling_metadata_for_quantification.csv"
+    # csv_path = r"scripts\2024-09-29_microneedle\Pearling_metadata_for_quantification.csv"
     pearls_df = pd.read_csv(csv_path, dtype={'im_path': 'object', 'nellie_path': 'object', 'crop_path': 'object'})
     selected_timepoints = pearls_df['selected_timepoints'].apply(convert_to_list)
     skip_frames = pearls_df['skip_frames'].apply(convert_to_list) if 'skip_frames' in pearls_df.columns else None

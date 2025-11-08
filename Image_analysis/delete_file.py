@@ -29,7 +29,7 @@ def delete_files_by_name(root_folder, target_filename):
 
 
 # Example usage
-root_folder = r"C:\Users\gavst\Box\Box-Gdrive\Calico\scripts\2024-11-04_osmotic_shock_calcium"
+root_folder = r"scripts\2024-11-04_osmotic_shock_calcium"
 target_filename = "completed_curvature.txt" # "training_label_metrics.csv"
 
 delete_files_by_name(root_folder, target_filename)

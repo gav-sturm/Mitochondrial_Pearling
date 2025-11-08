@@ -205,9 +205,9 @@ def main():
     Edit the 'input_csv', 'output_csv', 'replicate_output_csv', and 'treatment_order' variables below as needed.
     """
     # === User Parameters ===
-    input_csv = r"C:\Users\gavst\Box\Box-Gdrive\Calico\scripts\2024-11-21_freq_counts\single_volume_data.csv"  # <-- Set your input CSV file path here
-    output_csv = r"C:\Users\gavst\Box\Box-Gdrive\Calico\scripts\2024-11-21_freq_counts\single_volume_data_summary.csv"  # <-- Set your desired output summary CSV file path here
-    replicate_output_csv = r"C:\Users\gavst\Box\Box-Gdrive\Calico\scripts\2024-11-21_freq_counts\single_volume_data_replicate_averaged.csv"  # <-- Set your desired replicate-averaged data CSV file path here
+    input_csv = r"scripts\2024-11-21_freq_counts\single_volume_data.csv"  # <-- Set your input CSV file path here
+    output_csv = r"scripts\2024-11-21_freq_counts\single_volume_data_summary.csv"  # <-- Set your desired output summary CSV file path here
+    replicate_output_csv = r"scripts\2024-11-21_freq_counts\single_volume_data_replicate_averaged.csv"  # <-- Set your desired replicate-averaged data CSV file path here
     #     or set to None to skip saving replicate-averaged data
 
     # Define the desired order of treatments
